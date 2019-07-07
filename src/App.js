@@ -49,7 +49,7 @@ const App = () => {
         ))}
       </div>
       <footer>
-        <span>Powered By <a href="https:/devrushi.com" className="color" >DevRushi</a></span>
+        <span>Powered By <a href="https:/devrushi.com" className="color" >DevRushi</a>Team</span>
       </footer>
       
     </div>
